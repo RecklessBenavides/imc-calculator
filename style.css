@@ -1,0 +1,9 @@
+* {
+    background-color: bisque;
+}
+
+.content-result {
+    border-style:solid;
+    border-color: black;
+    border-width: 100 px;
+}
